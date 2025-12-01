@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "lutin.helloWorld",
-        "title": "Hello World"
+        "command": "lutin.sortImports",
+        "title": "Sort Imports"
       }
     ]
   },
