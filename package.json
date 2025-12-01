@@ -1,7 +1,7 @@
 {
   "name": "lutin",
   "displayName": "Lutin - React/TS import sorter",
-  "description": "Lutin allows you to sort, organize, and store your imports on TS, TSX, JS, and JSX files using predefined or customizable patterns.",
+  "description": "Lutin is a VSCode extension allows you to sort, organize, and store your imports on TS, TSX, JS, and JSX files using predefined or customizable patterns.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.106.1"
